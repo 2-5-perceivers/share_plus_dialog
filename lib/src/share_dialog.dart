@@ -33,7 +33,7 @@ class ShareDialog extends StatelessWidget {
   Widget build(BuildContext context) {
     final ThemeData theme = Theme.of(context);
     return AlertDialog(
-      //icon: const Icon(Icons.share), //TODO: add this back as icon gets to stable
+      icon: const Icon(Icons.share),
       title: const Text('Share'),
       content: Column(
         mainAxisSize: MainAxisSize.min,
