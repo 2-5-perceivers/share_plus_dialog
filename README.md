@@ -4,8 +4,8 @@
 This package extends the share_plus experience on the desktop and web, by opening a dialog to select  
 a web platform to send to.
 
-![Screeshot](/images/Screenshot%20from%202022-07-30%2000-57-10.png)
-![Screenshot 2](/images/Screenshot%20from%202022-07-30%2000-58-21.png)
+![Screeshot](https://github.com/2-5-perceivers/share_plus_dialog/raw/main/images/Screenshot%20from%202022-07-30%2000-57-10.png)
+![Screenshot 2](https://github.com/2-5-perceivers/share_plus_dialog/raw/main/images/Screenshot%20from%202022-07-30%2000-58-21.png)
 
 ## Features
 
