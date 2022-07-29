@@ -102,9 +102,10 @@ class ShareDialog extends StatelessWidget {
     );
   }
 
-  /// If `isUrl` is true than the function will encode the body as a url. You
-  /// can use [SharePlatform.defaults] instead of providing your own list of
-  /// platforms
+  /// On dektop and web it opens the share dialog and on mobile it opens the
+  /// native share dialog/modal sheet. If `isUrl` is true than the function will
+  /// encode the body as a url. You can use [SharePlatform.defaults] instead of
+  /// providing your own list of platforms
   static Future<void> share(
     BuildContext context,
     String text, {

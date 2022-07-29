@@ -1,6 +1,17 @@
 import 'package:flutter/material.dart';
 
 /// A web sharing platform that also represents how the widget is build
+/// To create your own use the constructor as this example:
+///
+/// ```dart
+/// SharePlatform(
+///     'Email',
+///     urlSchema: 'mailto:?body=|body|&subject=|subject|',
+///     icon: Icons.email,
+/// );
+/// ```
+///
+/// You are free to expand this class and override the getUrl function
 class SharePlatform {
   /// Creates a new sharing platform
   const SharePlatform(
@@ -21,7 +32,9 @@ class SharePlatform {
   final MaterialColor? color;
 
   /// A schema to create the url to be opened for sharing. Use `|body|` and
-  /// `|subject|` to insert variables
+  /// `|subject|` to insert variables. Example:
+  ///
+  /// `mailto:?body=|body|&subject=|subject|`
   final String urlSchema;
 
   /// Get's the procesed schema. If `isUrl` is true than the function will
