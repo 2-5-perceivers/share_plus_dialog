@@ -1,6 +1,11 @@
+## 1.0.2
+
+* Added icon to the dialog
+* Set supported platforms
+
 ## 1.0.1
 
-*Fixed erorrs
+* Fixed erorrs
 
 ## 1.0.0
 

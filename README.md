@@ -1,5 +1,6 @@
-
 # share_plus_dialog
+
+[![pub package](https://img.shields.io/pub/v/share_plus_dialog?color=green)](https://pub.dartlang.org/packages/share_plus_dialog)
 
 This package extends the share_plus experience on the desktop and web, by opening a dialog to select  
 a web platform to send to.
@@ -14,6 +15,7 @@ Supported sharing platform:
 * Telegram
 * Whatsapp
 * Reddit
+
   Pull request adding more are very welcome.
 
 ## Getting started
