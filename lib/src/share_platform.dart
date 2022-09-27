@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:share_plus_dialog/src/socials_icons_icons.dart';
 
 /// A web sharing platform that also represents how the widget is build
 /// To create your own use the constructor as this example:
@@ -62,7 +63,7 @@ class SharePlatform {
   static SharePlatform get telegram => const SharePlatform(
         'Telegram',
         urlSchema: 'https://t.me/share?url=|body|&text=|subject|',
-        icon: Icons.telegram,
+        icon: SocialsIcons.telegram_plane,
         color: Colors.blue,
       );
 
@@ -70,7 +71,7 @@ class SharePlatform {
   static SharePlatform get whatsapp => const SharePlatform(
         'Whatsapp',
         urlSchema: 'https://api.whatsapp.com/send/?text=|body|',
-        icon: Icons.whatsapp,
+        icon: SocialsIcons.whatsapp,
         color: Colors.green,
       );
 
@@ -78,7 +79,7 @@ class SharePlatform {
   static SharePlatform get reddit => const SharePlatform(
         'Reddit',
         urlSchema: 'https://www.reddit.com/submit?text=|body|&title=|subject|',
-        icon: Icons.reddit,
+        icon: SocialsIcons.reddit_alien,
         color: Colors.red,
       );
 
