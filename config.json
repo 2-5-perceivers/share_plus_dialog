@@ -1,0 +1,76 @@
+{
+  "name": "SocialsIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "cb1b238b03c21450ef717fe3d8534d68",
+      "css": "twitter",
+      "code": 61593,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "c8a620baa7b8ea0db70149cb5da9b6ae",
+      "css": "facebook",
+      "code": 61594,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "aa13282dd12210e430643b48aed75bea",
+      "css": "pinterest",
+      "code": 61650,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "71064f0fa3be043351efdcaea9c5b8ea",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "c4bdedc0ae667ddae64926d27b4bead3",
+      "css": "reddit_alien",
+      "code": 62081,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "22e127742e9a3290f25ad2e8a8de0a16",
+      "css": "snapchat_ghost",
+      "code": 62124,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "ab4a5405190c8f2735554e4802b01e21",
+      "css": "viber",
+      "code": 62473,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "89ecfa592ef23120ece9ea0eb90d5ab4",
+      "css": "line",
+      "code": 62400,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "34cb6ce62bf3f1efd59e2f5eb0d79f82",
+      "css": "wechat",
+      "code": 61911,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3d2ba268e0ff8128fe71d48c4631a6b9",
+      "css": "telegram_plane",
+      "code": 62462,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "30dedab0909f0cb62d30161bcaaceae2",
+      "css": "whatsapp",
+      "code": 62002,
+      "src": "fontawesome5"
+    }
+  ]
+}
