@@ -34,7 +34,7 @@ class ShareDialog extends StatelessWidget {
   Widget build(BuildContext context) {
     final ThemeData theme = Theme.of(context);
     return AlertDialog(
-      icon: const Icon(SocialsIcons.instagram),
+      icon: Icon(Icons.adaptive.share),
       title: const Text('Share'),
       content: Column(
         mainAxisSize: MainAxisSize.min,
@@ -60,7 +60,7 @@ class ShareDialog extends StatelessWidget {
                   );
                 },
                 label: const Text('Copy to clipboard'),
-                icon: const Icon(Icons.copy),
+                icon: const Icon(Icons.copy_rounded),
               ),
             ),
           ),

@@ -1,3 +1,7 @@
+## 1.1.1
+
+* Fixed icons
+
 ## 1.1.0
 
 * In preparation for the upcoming removal of brand icons from the Material set we added FONT AWESOME icons for a lot of social platforms
