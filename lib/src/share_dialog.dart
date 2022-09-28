@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:share_plus_dialog/src/share_platform.dart';
-import 'package:share_plus_dialog/src/socials_icons_icons.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 /// The dialog that displays all sharing options
