@@ -33,8 +33,11 @@ class HomePage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           ElevatedButton(
-            onPressed: () => ShareDialog.share(context, 'amazing text',
-                platforms: SharePlatform.defaults),
+            onPressed: () => ShareDialog.share(
+              context,
+              body: 'Some random text to be shared',
+              platforms: SharePlatform.defaults,
+            ),
             child: const Text('Share'),
           ),
         ],

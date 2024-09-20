@@ -1,3 +1,9 @@
+## 2.0.0
+* Updated dependecies
+* New platforms
+* New SocialPlatform abstract class (breaking change)
+* Renamed text parameter to body (breaking change) 
+
 ## 1.1.1
 
 * Fixed icons
