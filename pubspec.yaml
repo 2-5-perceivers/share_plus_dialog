@@ -1,6 +1,6 @@
 name: share_plus_dialog
 description: A package that improves sharing on desktop and web from the share_plus plugin with a sharing dialog
-version: 2.0.0
+version: 2.0.1
 repository: https://github.com/2-5-perceivers/share_plus_dialog
 funding:
   - https://github.com/sponsors/rares45
@@ -20,12 +20,12 @@ environment:
   flutter: ">=3.24.0"
 
 platforms:
-  linux:
-  windows:
-  macos:
   android:
   ios:
-  web: 
+  linux:
+  macos:
+  web:
+  windows:
 
 dependencies:
   flutter:
