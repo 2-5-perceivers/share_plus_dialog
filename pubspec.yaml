@@ -6,9 +6,10 @@ funding:
   - https://github.com/sponsors/rares45
   - https://buymeacoffee.com/raresvanca
 topics: 
-  - lists
-  - widgets
-  - padding
+  - share
+  - sharing
+  - dialog
+  - material
 screenshots:
   - description: Dialog on desktop
     path: images/dialog.png
